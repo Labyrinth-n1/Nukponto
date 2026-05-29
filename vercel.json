@@ -1,11 +1,3 @@
 {
-  "version": 2,
-  "framework": "vite",
-  "cleanUrls": true,
-  "rewrites": [
-    {
-      "source": "/(.*)",
-      "destination": "/"
-    }
-  ]
+  "outputDirectory": ".vercel/output"
 }
